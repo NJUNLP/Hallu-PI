@@ -1,6 +1,6 @@
 # Hallu-PI
 
-The code and datasets of our **ACM MM 2024** paper "Hallu-PI: Evaluating Hallucination in Multi-modal Large Language Models within Perturbed Inputs".
+The code and datasets of our **ACM MM 2024** paper "[Hallu-PI: Evaluating Hallucination in Multi-modal Large Language Models within Perturbed Inputs](https://arxiv.org/abs/2408.01355)".
 
 ![ACMMM 2024](https://img.shields.io/badge/ACMMM-2024-blue.svg?style=plastic)
 ![Multi-modal Large
